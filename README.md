@@ -23,7 +23,7 @@
 
 ## Код
 
-Среда разработки – Jupyter Notebook. Код можно посмотреть здесь: [Analyzis_data.ipynb](./Analyzis_data.ipynb)  
+Среда разработки – Jupyter Notebook. Код можно посмотреть здесь: [Analyzis_data_python.ipynb](./Analyzis_data_python.ipynb)  
 
 ## Результаты
 
