@@ -18,9 +18,11 @@
 ## Для работы использовала данные
 
 Для анализа данных были использованы материалы Академии Eduson. В качестве исходных данных были даны 2 таблицы в формате excel: 
-1)	products со столбцами: product_id, level1, level2, name. В таблице 40 152 строки;
-2)	orders со столбцами: order_id, accepted_at, product_id, quantity, regular_price, price, cost_price. В таблице 3 323 строки.
-Содержимое таблиц можно посмотреть по ссылкам: 
+*	products со столбцами: product_id, level1, level2, name. В таблице 40 152 строки;
+*	orders со столбцами: order_id, accepted_at, product_id, quantity, regular_price, price, cost_price. В таблице 3 323 строки.
+Содержимое таблиц можно посмотреть по ссылкам:
+- [orders](./data/orders)
+- [products](./data/products)
 
 ## Код
 
